@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafkatulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafkatulhassan" /> </p>
 
-- 🔭 I’m currently working on **A java-Swing project named Pandamic vs We**
+- 🔭 I’m currently working on **Codeforces_30_day_challenge_LU_ACM **
 
-- 🌱 I’m currently learning **Java Swing, Data Structure ,Algorithm**
+- 🌱 I’m currently learning **Android app development,Data Structure,Algorithm**
 
 - 📫 How to reach me **syedshafkatulhassan@gmail.com**
 
