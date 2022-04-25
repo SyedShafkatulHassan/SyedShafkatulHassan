@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafkatulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafkatulhassan" /> </p>
 
-- 🔭 I’m currently working on **Codeforces_30_day_challenge_LU_ACM **
 
 - 🌱 I’m currently learning **Android app development,Data Structure,Algorithm**
 
