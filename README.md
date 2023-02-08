@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Shafkatul Hassan</h1>
-<h3 align="center">Third year first semester student, completing B.Sc.(hons.) on Computer Science & Engineering at Leading University, Sylhet, Bangladesh.</h3>
+<h3 align="center">Fourth year first semester student, completing B.Sc.(hons.) on Computer Science & Engineering at Leading University, Sylhet, Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafkatulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafkatulhassan" /> </p>
 
 
-- 🌱 I’m currently learning **Android app development,Data Structure,Algorithm**
+- 🌱 I’m currently learning **Flutter,Web development,ML**
 
 - 📫 How to reach me **syedshafkatulhassan@gmail.com**
 
