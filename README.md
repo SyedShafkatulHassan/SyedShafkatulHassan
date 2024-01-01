@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Shafkatul Hassan</h1>
-<h3 align="center">Fourth year first semester student, completing B.Sc.(hons.) on Computer Science & Engineering at Leading University, Sylhet, Bangladesh.</h3>
+<h3 align="center">Fourth year final semester student, completing B.Sc.(hons.) on Computer Science & Engineering at Leading University, Sylhet, Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafkatulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafkatulhassan" /> </p>
 
 
-- 🌱 I’m currently learning **Web development and ML**
+- 🌱 I’m currently learning **Computer vision , Data Science and Web development**
 
 
 <h3 align="left">Connect with me:</h3>
